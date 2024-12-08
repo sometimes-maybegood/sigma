@@ -3,7 +3,6 @@ import sqlite3
 from PyQt6 import QtWidgets, uic
 
 
-
 class CoffeeApp(QtWidgets.QMainWindow):
     def __init__(self):
         super(CoffeeApp, self).__init__()
